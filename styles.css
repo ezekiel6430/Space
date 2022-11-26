@@ -1,0 +1,16 @@
+h1 {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  height: 200px;
+}
+body {
+    width: 50%;
+    background-image: url(https://images4.fanpop.com/image/photos/19200000/Nebulas-space-19260888-1024-768.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
