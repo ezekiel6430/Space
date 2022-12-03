@@ -1,4 +1,5 @@
 h1 {
+  font-family: cursive;
   margin: auto;
   padding: auto;
   text-align: center;
@@ -17,4 +18,5 @@ p {
   font-size: 30px;
   width: 100%;
   text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
